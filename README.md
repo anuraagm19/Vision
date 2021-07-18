@@ -39,9 +39,7 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-<img src=images/ss1.jpg>
-<img src=images/ss2.jpg>
-<img src=images/ss3.jpg >
+<img src=images/ss1.jpeg width="20%" height = "20%" hspace="30"/><img src=images/ss2.jpeg width="20%" height = "20%" hspace="30"/><img src=images/ss3.jpeg width="20%" height = "20%" hspace="30"/>
 <!-- <img src=images/experiences.jpg> -->
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
