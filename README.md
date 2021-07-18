@@ -3,9 +3,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a>
+<!--   <a>
     <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+  </a> -->
 
   <h3 align="center">Flutter Reader for the Blind</h3>
 </p>
@@ -39,10 +39,10 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-<img src=images/topics.jpg>
-<img src=images/questions.jpg>
-<img src=images/companies.jpg >
-<img src=images/experiences.jpg>
+<img src=images/ss1.jpg>
+<img src=images/ss2.jpg>
+<img src=images/ss3.jpg >
+<!-- <img src=images/experiences.jpg> -->
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
@@ -81,4 +81,4 @@ A list of commonly used resources that I find helpful are listed in the acknowle
    ```
 
 
-[product-screenshot]: images/screenshot.png
+<!-- [product-screenshot]: images/screenshot.png -->
