@@ -18,9 +18,6 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -41,23 +38,22 @@
 
 <img src=images/ss1.jpeg width="20%" height = "20%" hspace="30"/><img src=images/ss2.jpeg width="20%" height = "20%" hspace="30"/><img src=images/ss3.jpeg width="20%" height = "20%" hspace="30"/>
 <!-- <img src=images/experiences.jpg> -->
+Developed a Flutter application that scans for text in image using Google ML kit and converts it to speech, also
+allowing users to save the text as notes. 
+It includes voice instructions and gestures for easier navigation.
+Local storage implementation using sqlite.
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
-
+Key packages:
+* google_ml_kit
+* image_picker
+* flutter_tts
+* sqflite
 
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Setup
 
 ### Prerequisites
 
